@@ -1,1 +1,1 @@
-this is sample2 text file
+This is new sample2 text file after deletion
